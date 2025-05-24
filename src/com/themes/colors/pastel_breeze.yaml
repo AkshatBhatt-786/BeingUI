@@ -58,6 +58,7 @@ Colors:
     BACKDROP:       "rgba(248, 249, 250, 0.85)"   # Frosted glass
     BORDER:         "#E2E8F0"      # Light silver
     HEADER:         "#EBF4FF"      # Pale blue
+    ERROR_BG:       "#FEE2E2"      # Light coral
 
   Status:
     ONLINE:         "#68D391"      # Fresh lime

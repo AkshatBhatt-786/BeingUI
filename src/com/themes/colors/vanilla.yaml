@@ -58,7 +58,7 @@ Colors:
     BACKDROP:       "rgba(255, 253, 246, 0.92)"   # Sheer curtain
     BORDER:         "#F0EAE1"      # Linen
     HEADER:         "#F8F2E1"      # Vanilla sugar
-
+    ERROR_BG:       "#FDE2E2"      # Light blush
   Status:
     ONLINE:         "#A3C1A3"      # Moss
     OFFLINE:        "#D1C6B8"      # Driftwood

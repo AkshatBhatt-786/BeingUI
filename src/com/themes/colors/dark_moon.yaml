@@ -58,6 +58,7 @@ Colors:
     BACKDROP: "rgba(15, 15, 31, 0.85)"      # Space Veil
     BORDER: "#4A4B8C"          # Galactic Current
     HEADER: "#2A2356"          # Cosmic Cloud
+    ERROR_BG: "#FFCDD2"      # Red Dwarf
 
   Status:
     ONLINE: "#4EC9B0"          # Alien Green

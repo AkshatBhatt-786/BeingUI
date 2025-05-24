@@ -58,6 +58,7 @@ Colors:
     BACKDROP: "rgba(254, 249, 231, 0.9)"  # Haze Effect
     BORDER: "#FFE08C"          # Sun-kissed Edge
     HEADER: "#FFF4E0"          # Sunrise Header
+    ERROR_BG: "#FFCDD2"        # Sunset Error
 
   Status:
     ONLINE: "#4CAF50"          # Growing Green

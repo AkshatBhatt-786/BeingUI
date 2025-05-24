@@ -58,6 +58,7 @@ Colors:
     BACKDROP:       "rgba(255, 249, 240, 0.9)"   # Warm frosted glass
     BORDER:         "#F0E6D8"      # Linen
     HEADER:         "#FFEFD6"      # Apricot cream
+    ERROR_BG:       "#FDE2E2"       # Light blush
 
   Status:
     ONLINE:         "#A3C1A3"      # Moss green

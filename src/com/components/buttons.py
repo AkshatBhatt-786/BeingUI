@@ -16,6 +16,7 @@ class ButtonColors:
     DISABLED: str
     TEXT: str
 
+
 class AnimatedBaseButton(ctk.CTkButton):
 
     def __init__(self, master: any,
@@ -83,8 +84,6 @@ class AnimatedBaseButton(ctk.CTkButton):
             hover_color=self._get_color('Buttons.PRIMARY_HOVER'),
             text_color=self._get_color('Buttons.TEXT')
         )
-
-
 
 
 class BaseButton(ctk.CTkButton):

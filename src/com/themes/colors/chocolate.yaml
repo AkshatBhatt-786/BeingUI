@@ -58,7 +58,7 @@ Colors:
     BACKDROP: "rgba(62, 39, 35, 0.2)"     # Chocolate Mist
     BORDER: "#D7CCC8"          # Latte
     HEADER: "#F5F5F5"          # Vanilla Cream
-
+    ERROR_BG: "#FFCDD2"      # Light Cherry
   Status:
     ONLINE: "#8BC34A"          # Pistachio
     OFFLINE: "#A1887F"         # Milk Chocolate

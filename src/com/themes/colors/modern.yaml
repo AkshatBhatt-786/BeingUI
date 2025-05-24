@@ -58,7 +58,8 @@ Colors:
     BACKDROP: "rgba(250, 249, 251, 0.85)"  # Creamy veil
     BORDER: "#E1D9EC"         # Pale Lilac
     HEADER: "#EDE7F6"         # Light Lilac
-
+    ERROR_BG: "#F8BBD0"      # Rose Mist
+    
   Status:
     ONLINE: "#7ED957"         # Spring Green
     OFFLINE: "#D6CFE1"        # Gray Lavender

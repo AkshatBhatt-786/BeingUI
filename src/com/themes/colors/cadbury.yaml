@@ -58,7 +58,7 @@ Colors:
     BACKDROP: "rgba(51, 0, 114, 0.15)"     # Purple Haze
     BORDER: "#D4AF37"          # Gold Edge
     HEADER: "#FFF3E0"          # Cream Header
-
+    ERROR_BG: "#FFCDD2"      # Light Cherry
   Status:
     ONLINE: "#45B649"          # Green Triangle
     OFFLINE: "#BDBDBD"         # Silver Pouch
