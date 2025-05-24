@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY:        "#E3D5C8"        # Raw almond
+  SECONDARY:      "#A8BAA3"        # Pistachio shell
+  ACCENT:         "#D4A59A"        # Terracotta clay
+  HIGHLIGHT:      "#F5EDE6"        # Almond milk
+  SUCCESS:        "#B8C4B8"        # Sage
+  WARNING:        "#E6C7A8"        # Toasted almond
+  DANGER:         "#C99789"        # Rust
+  BACKGROUND:     "#FDF9F5"        # Blanched almond
+  SURFACE:        "#FFFFFF"        # Pure white
+
+  Texts:
+    HEADERS:      "#4A403A"        # Dark walnut
+    PRIMARY:      "#6B5C4B"        # Coffee grounds
+    SECONDARY:    "#8C7B69"        # Hazelnut
+    PLACEHOLDER:  "#9E9C98"        # Driftwood
+    SUCCESS:      "#5C6D5C"        # Forest floor
+    ERROR:        "#A56357"        # Burnt sienna
+
+  Borders:
+    PRIMARY:      "#D1C6B8"        # Sandstone
+    ACCENT:       "#C2A693"        # Weathered terracotta
+    FOCUS:        "#B89B8C"        # Roasted almond
+    ERROR:        "#C99789"        # Rust accent
+
+  Buttons:
+    PRIMARY:         "#E3D5C8"     # Almond base
+    PRIMARY_HOVER:   "#D5C3B4"     # Toasted almond
+    SECONDARY:       "#A8BAA3"     # Pistachio
+    SECONDARY_HOVER: "#95A891"
+    ACCENT:          "#D4A59A"     # Terracotta
+    ACCENT_HOVER:    "#C29185"
+    DISABLED:        "#E0D5CA"     # Oatmeal
+    TEXT:            "#4A403A"     # Walnut
+
+  Inputs:
+    BACKGROUND:     "#FFFFFF"      # Clean white
+    BORDER:         "#D1C6B8"      # Sandstone
+    TEXT:           "#6B5C4B"      # Coffee
+    PLACEHOLDER:    "#9E9C98"      # Driftwood
+    FOCUS_GLOW:     "rgba(227, 213, 200, 0.2)"   # Almond glow
+
+  Cards:
+    BACKGROUND:     "#FFFFFF"      # Crisp white
+    SECONDARY:      "#F5EDE6"      # Almond milk
+    BORDER:         "#E7DED5"      # Linen
+    SHADOW:         "rgba(209, 198, 184, 0.15)"  # Soft shadow
+    ALT_BACKGROUND: "#F8F2EC"      # Vanilla cream
+
+  Sidebar:
+    BACKGROUND:     "#EFE6DE"      # Almond skin
+    BORDER:         "#D1C6B8"      # Sandstone
+    HOVER:          "#E5D7CC"      # Warm almond
+    ACTIVE:         "#DBCDBF"      # Roasted shell
+
+  Modals:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BACKDROP:       "rgba(253, 249, 245, 0.95)"  # Sheer almond
+    BORDER:         "#E7DED5"      # Linen
+    HEADER:         "#EFE6DE"      # Almond skin
+
+  Status:
+    ONLINE:         "#A8BAA3"      # Pistachio
+    OFFLINE:        "#C5B8AD"      # Weathered wood
+    AWAY:           "#E6C7A8"      # Golden almond
+    BUSY:           "#D4A59A"      # Terracotta
+
+  Charts:
+    PRIMARY:        "#E3D5C8"      # Almond
+    SECONDARY:      "#A8BAA3"      # Pistachio
+    TERTIARY:       "#D4A59A"      # Terracotta
+    QUATERNARY:     "#B8C4B8"      # Sage
+
+  Tables:
+    HEADER:         "#EFE6DE"      # Almond skin
+    ROW_ALT:        "#F8F2EC"      # Vanilla cream
+    BORDER:         "#D1C6B8"      # Sandstone
+    HOVER:          "#FCF8F5"      # Fresh almond
+
+  Special:
+    SELECTION:      "#F5EDE6"      # Almond milk
+    HIGHLIGHT:      "#FEF4EC"      # Warm glow
+    TOOLTIP:        "#4A403A"      # Walnut
+    SCROLLBAR:      "#D1C6B8"      # Sandstone
+    DIVIDER:        "#E7DED5"      # Linen
+
+  ThemeSwitcher:
+    LIGHT_ICON:     "#E3D5C8"      # Almond
+    DARK_ICON:      "#6B5C4B"      # Coffee
+    TRACK:          "#D1C6B8"      # Sandstone
+    THUMB:          "#FFFFFF"      # White

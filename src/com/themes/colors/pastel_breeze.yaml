@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY:        "#B8D8EB"
+  SECONDARY:      "#B5EAD7"        # Mint green
+  ACCENT:         "#FFB7D5"        # Blush pink
+  HIGHLIGHT:      "#FFE9AE"        # Pale sunshine
+  SUCCESS:        "#C7F5C7"        # Fresh mint
+  WARNING:        "#FFE6A6"        # Butterscotch
+  DANGER:         "#FFB3BA"        # Watermelon
+  BACKGROUND:     "#F8F9FA"        # Off-white
+  SURFACE:        "#FFFFFF"        # Pure white
+
+  Texts:
+    HEADERS:      "#2D3748"        # Dark slate
+    PRIMARY:      "#4A5568"        # Soft graphite
+    SECONDARY:    "#718096"        # Medium gray
+    PLACEHOLDER:  "#A0AEC0"        # Silver
+    SUCCESS:      "#2F855A"        # Forest green
+    ERROR:        "#C53030"        # Soft crimson
+
+  Borders:
+    PRIMARY:      "#CBD5E1"        # Light silver
+    ACCENT:       "#A8C5E6"        # Powder blue
+    FOCUS:        "#FFB7D5"        # Matching accent
+    ERROR:        "#FC8181"        # Coral pink
+
+  Buttons:
+    PRIMARY:         "#A8C5E6"     # Powder blue
+    PRIMARY_HOVER:   "#93B4D8"     # Dusky blue
+    SECONDARY:       "#B5EAD7"     # Mint green
+    SECONDARY_HOVER: "#9BD4BC"
+    ACCENT:          "#FFB7D5"     # Blush pink
+    ACCENT_HOVER:    "#FFA5C8"
+    DISABLED:        "#E2E8F0"     # Cloud gray
+    TEXT:            "#2D3748"     # Dark slate
+
+  Inputs:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BORDER:         "#CBD5E1"      # Light silver
+    TEXT:           "#2D3748"      # Dark slate
+    PLACEHOLDER:    "#A0AEC0"      # Silver
+    FOCUS_GLOW:     "rgba(168, 197, 230, 0.3)"   # Powder blue
+
+  Cards:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BORDER:         "#E2E8F0"      # Lighter silver
+    SHADOW:         "rgba(203, 213, 225, 0.3)"   # Soft shadow
+    ALT_BACKGROUND: "#F8FAFC"      # Snow white
+    SECONDARY:      "#F8FAFC"
+
+  Sidebar:
+    BACKGROUND:     "#EBF4FF"      # Pale blue
+    BORDER:         "#CBD5E1"      # Light silver
+    HOVER:          "#D6E3F5"      # Sky mist
+    ACTIVE:         "#C1D4ED"      # Soft denim
+
+  Modals:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BACKDROP:       "rgba(248, 249, 250, 0.85)"   # Frosted glass
+    BORDER:         "#E2E8F0"      # Light silver
+    HEADER:         "#EBF4FF"      # Pale blue
+
+  Status:
+    ONLINE:         "#68D391"      # Fresh lime
+    OFFLINE:        "#CBD5E1"      # Silver
+    AWAY:           "#F6E05E"      # Goldenrod
+    BUSY:           "#FC8181"      # Coral
+
+  Charts:
+    PRIMARY:        "#A8C5E6"      # Powder blue
+    SECONDARY:      "#B5EAD7"      # Mint green
+    TERTIARY:       "#FFB7D5"      # Blush pink
+    QUATERNARY:     "#FFE9AE"      # Pale sunshine
+
+  Tables:
+    HEADER:         "#EBF4FF"      # Pale blue
+    ROW_ALT:        "#F8FAFC"      # Snow white
+    BORDER:         "#E2E8F0"      # Light silver
+    HOVER:          "#F3F8FE"      # Ice blue
+
+  Special:
+    SELECTION:      "#EBF4FF"      # Pale blue
+    HIGHLIGHT:      "#FFF9DB"      # Vanilla cream
+    TOOLTIP:        "#2D3748"      # Dark slate
+    SCROLLBAR:      "#CBD5E1"      # Silver
+    DIVIDER:        "#E2E8F0"      # Light silver
+
+  ThemeSwitcher:
+    LIGHT_ICON:     "#F6E05E"      # Goldenrod
+    DARK_ICON:      "#4A5568"      # Graphite
+    TRACK:          "#CBD5E1"      # Silver
+    THUMB:          "#FFFFFF"      # White

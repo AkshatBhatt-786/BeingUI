@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY: "#C7A387"          # Roasted hazelnut
+  SECONDARY: "#A8B8A3"        # Sage leaf
+  ACCENT: "#D4A59A"           # Terracotta
+  HIGHLIGHT: "#E8D5C8"        # Hazelnut cream
+  SUCCESS: "#A3B8A1"          # Moss
+  WARNING: "#E6C7A8"          # Golden husk
+  DANGER: "#C99789"           # Rustic red
+  BACKGROUND: "#F5F0EB"       # Linen
+  SURFACE: "#FFFFFF"          # Pure white
+
+  Texts:
+    HEADERS: "#4A403A"        # Dark bark
+    PRIMARY: "#6B5C4B"        # Coffee bean
+    SECONDARY: "#8C7B69"      # Weathered wood
+    PLACEHOLDER: "#9E9C98"    # Stone
+    SUCCESS: "#5C6D5C"        # Forest
+    ERROR: "#A56357"          # Clay
+
+  Borders:
+    PRIMARY: "#D1C6B8"        # Sand
+    ACCENT: "#B89B8C"         # Bark
+    FOCUS: "#9E8574"          # Dark roast
+    ERROR: "#C99789"          # Rust
+
+  Buttons:
+    PRIMARY: "#C7A387"        # Hazelnut
+    PRIMARY_HOVER: "#B89172"  # Dark roast
+    SECONDARY: "#A8B8A3"      # Sage
+    SECONDARY_HOVER: "#95A891"
+    ACCENT: "#D4A59A"         # Terracotta
+    ACCENT_HOVER: "#C29185"
+    DISABLED: "#DCD2C8"       # Weathered
+    TEXT: "#4A403A"           # Bark
+
+  Inputs:
+    BACKGROUND: "#FFFFFF"     # Clean white
+    BORDER: "#D1C6B8"         # Sand
+    TEXT: "#6B5C4B"           # Coffee
+    PLACEHOLDER: "#9E9C98"    # Stone
+    FOCUS_GLOW: "rgba(199, 163, 135, 0.2)"  # Hazelnut glow
+
+  Cards:
+    BACKGROUND: "#FFFFFF"     # Crisp white
+    SECONDARY: "#F5EDE6"      # Almond milk
+    BORDER: "#E7DED5"         # Linen
+    SHADOW: "rgba(209, 198, 184, 0.15)"      # Soft shadow
+    ALT_BACKGROUND: "#F8F2EC" # Vanilla cream
+
+  Sidebar:
+    BACKGROUND: "#EFE6DE"     # Almond skin
+    BORDER: "#D1C6B8"         # Sand
+    HOVER: "#E5D7CC"          # Warm almond
+    ACTIVE: "#DBCDBF"         # Roasted shell
+
+  Modals:
+    BACKGROUND: "#FFFFFF"     # Pure white
+    BACKDROP: "rgba(245, 240, 235, 0.95)"    # Sheer linen
+    BORDER: "#E7DED5"         # Linen
+    HEADER: "#EFE6DE"         # Almond skin
+
+  Status:
+    ONLINE: "#A8B8A3"         # Sage
+    OFFLINE: "#C5B8AD"        # Weathered wood
+    AWAY: "#E6C7A8"           # Golden almond
+    BUSY: "#D4A59A"           # Terracotta
+
+  Charts:
+    PRIMARY: "#C7A387"        # Hazelnut
+    SECONDARY: "#A8B8A3"      # Sage
+    TERTIARY: "#D4A59A"       # Terracotta
+    QUATERNARY: "#B8C4B8"     # Moss
+
+  Tables:
+    HEADER: "#EFE6DE"         # Almond skin
+    ROW_ALT: "#F8F2EC"        # Vanilla cream
+    BORDER: "#D1C6B8"         # Sand
+    HOVER: "#FCF8F5"          # Fresh almond
+
+  Special:
+    SELECTION: "#F5EDE6"      # Almond milk
+    HIGHLIGHT: "#FEF4EC"      # Warm glow
+    TOOLTIP: "#4A403A"        # Dark bark
+    SCROLLBAR: "#D1C6B8"      # Sand
+    DIVIDER: "#E7DED5"        # Linen
+
+  ThemeSwitcher:
+    LIGHT_ICON: "#C7A387"     # Hazelnut
+    DARK_ICON: "#6B5C4B"      # Coffee bean
+    TRACK: "#D1C6B8"          # Sand
+    THUMB: "#FFFFFF"          # White

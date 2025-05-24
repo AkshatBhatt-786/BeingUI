@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY: "#FFD700"          # Golden Sunbeam
+  SECONDARY: "#87CEEB"        # Sky Blue
+  ACCENT: "#FF6B35"           # Solar Flare
+  HIGHLIGHT: "#FFF4E0"        # Morning Glow
+  SUCCESS: "#4CAF50"          # Fresh Leaf
+  WARNING: "#FFA500"          # Harvest Orange
+  DANGER: "#FF4444"           # Crimson Dawn
+  BACKGROUND: "#FEF9E7"       # Sunlit Cloud
+  SURFACE: "#FFFFFF"          # Pure Daylight
+
+  Texts:
+    HEADERS: "#2F4858"        # Desert Shadow
+    PRIMARY: "#4A4A4A"         # Volcanic Ash
+    SECONDARY: "#6B6B6B"       # Stone Gray
+    PLACEHOLDER: "#9E9E9E"     # Dune Sand
+    SUCCESS: "#388E3C"         # Forest Green
+    ERROR: "#D32F2F"           # Lava Red
+
+  Borders:
+    PRIMARY: "#FFE08C"         # Sun Ray
+    ACCENT: "#87CEEB"          # Horizon Line
+    FOCUS: "#FF6B35"           # Focused Heat
+    ERROR: "#FF4444"           # Burning Edge
+
+  Buttons:
+    PRIMARY: "#FFD700"         # Golden Button
+    PRIMARY_HOVER: "#FFC400"   # Intense Sun
+    SECONDARY: "#87CEEB"       # Sky Button
+    SECONDARY_HOVER: "#6CB4EE"
+    ACCENT: "#FF6B35"          # Fiery Action
+    ACCENT_HOVER: "#FF5500"
+    DISABLED: "#E0E0E0"        # Cloud Gray
+    TEXT: "#2F4858"            # Desert Text
+
+  Inputs:
+    BACKGROUND: "#FFFFFF"      # Fresh Snow
+    BORDER: "#FFE08C"          # Sunny Border
+    TEXT: "#4A4A4A"            # Charcoal
+    PLACEHOLDER: "#9E9E9E"     # Morning Mist
+    FOCUS_GLOW: "rgba(255, 215, 0, 0.2)"  # Sunburst Glow
+
+  Cards:
+    BACKGROUND: "#FFFFFF"      # White Sand
+    BORDER: "#FFE08C"          # Sunlit Edge
+    SHADOW: "rgba(255, 215, 0, 0.15)"     # Golden Shadow
+    ALT_BACKGROUND: "#FFF4E0"  # Dawn Light
+    SECONDARY: "#FEF9E7"       # Sun Wash
+
+  Sidebar:
+    BACKGROUND: "#FFF4E0"      # Morning Light
+    BORDER: "#FFD700"          # Sunbeam Trim
+    HOVER: "#FFE8B3"           # Midday Glow
+    ACTIVE: "#FFD180"          # Active Sunspot
+
+  Modals:
+    BACKGROUND: "#FFFFFF"      # Pure Light
+    BACKDROP: "rgba(254, 249, 231, 0.9)"  # Haze Effect
+    BORDER: "#FFE08C"          # Sun-kissed Edge
+    HEADER: "#FFF4E0"          # Sunrise Header
+
+  Status:
+    ONLINE: "#4CAF50"          # Growing Green
+    OFFLINE: "#BDBDBD"         # Cloud Cover
+    AWAY: "#FFA500"            # Sunset Orange
+    BUSY: "#FF4444"            # Emergency Red
+
+  Charts:
+    PRIMARY: "#FFD700"         # Sun Chart
+    SECONDARY: "#87CEEB"       # Sky Chart
+    TERTIARY: "#FF6B35"        # Heat Wave
+    QUATERNARY: "#4CAF50"      # Growth Line
+
+  Tables:
+    HEADER: "#FFF4E0"          # Light Header
+    ROW_ALT: "#FEF9E7"         # Alternate Shine
+    BORDER: "#FFE08C"          # Solar Grid
+    HOVER: "#FFF8E1"           # Hover Glow
+
+  Special:
+    SELECTION: "#FFF4E0"       # Highlight Beam
+    HIGHLIGHT: "#FFF3D8"       # Golden Select
+    TOOLTIP: "#2F4858"         # Shadow Tip
+    SCROLLBAR: "#FFE08C"       # Sun Scroll
+    DIVIDER: "#FFE08C"         # Light Divide
+
+  ThemeSwitcher:
+    LIGHT_ICON: "#FFD700"      # Sun Symbol
+    DARK_ICON: "#2F4858"       # Moon Symbol
+    TRACK: "#FFE08C"           # Sun Track
+    THUMB: "#FFFFFF"           # Cloud Thumb

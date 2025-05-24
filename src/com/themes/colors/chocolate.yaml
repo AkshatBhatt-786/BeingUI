@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY: "#6D4C41"          # Dark Chocolate
+  SECONDARY: "#A1887F"        # Milk Chocolate
+  ACCENT: "#D2691E"           # Caramel
+  HIGHLIGHT: "#FFF3E0"        # Cream
+  SUCCESS: "#8BC34A"          # Pistachio
+  WARNING: "#FFA726"          # Amber
+  DANGER: "#D32F2F"           # Raspberry
+  BACKGROUND: "#EFEBE9"       # Cocoa Powder
+  SURFACE: "#FFFFFF"          # White Chocolate
+
+  Texts:
+    HEADERS: "#3E2723"        # Bitter Chocolate
+    PRIMARY: "#4E342E"         # Dark Cocoa
+    SECONDARY: "#795548"       # Raw Umber
+    PLACEHOLDER: "#BCAAA4"     # Dusty Rose
+    SUCCESS: "#689F38"         # Forest Green
+    ERROR: "#C62828"           # Cherry Red
+
+  Borders:
+    PRIMARY: "#A1887F"         # Milk Chocolate
+    ACCENT: "#D2691E"          # Caramel
+    FOCUS: "#6D4C41"           # Dark Chocolate
+    ERROR: "#C62828"           # Cherry Red
+
+  Buttons:
+    PRIMARY: "#6D4C41"         # Dark Chocolate
+    PRIMARY_HOVER: "#5D4037"   # Espresso
+    SECONDARY: "#A1887F"       # Milk Chocolate
+    SECONDARY_HOVER: "#8D6E63"
+    ACCENT: "#D2691E"          # Caramel
+    ACCENT_HOVER: "#B64B00"
+    DISABLED: "#D7CCC8"        # Latte
+    TEXT: "#FFFFFF"            # White Chocolate
+
+  Inputs:
+    BACKGROUND: "#FFFFFF"      # White Chocolate
+    BORDER: "#BCAAA4"          # Dusty Rose
+    TEXT: "#4E342E"            # Dark Cocoa
+    PLACEHOLDER: "#BCAAA4"     # Dusty Rose
+    FOCUS_GLOW: "rgba(109, 76, 65, 0.1)"  # Chocolate Glow
+
+  Cards:
+    BACKGROUND: "#FFFFFF"      # White Chocolate
+    BORDER: "#D7CCC8"          # Latte
+    SHADOW: "rgba(62, 39, 35, 0.1)"       # Cocoa Shadow
+    ALT_BACKGROUND: "#F5F5F5"  # Vanilla Cream
+    SECONDARY: "#EFEBE9"       # Cocoa Powder
+
+  Sidebar:
+    BACKGROUND: "#D7CCC8"      # Latte
+    BORDER: "#A1887F"          # Milk Chocolate
+    HOVER: "#BCAAA4"           # Dusty Rose
+    ACTIVE: "#8D6E63"          # Raw Sienna
+
+  Modals:
+    BACKGROUND: "#FFFFFF"      # White Chocolate
+    BACKDROP: "rgba(62, 39, 35, 0.2)"     # Chocolate Mist
+    BORDER: "#D7CCC8"          # Latte
+    HEADER: "#F5F5F5"          # Vanilla Cream
+
+  Status:
+    ONLINE: "#8BC34A"          # Pistachio
+    OFFLINE: "#A1887F"         # Milk Chocolate
+    AWAY: "#FFA726"            # Amber
+    BUSY: "#D32F2F"            # Raspberry
+
+  Charts:
+    PRIMARY: "#6D4C41"         # Dark Chocolate
+    SECONDARY: "#A1887F"       # Milk Chocolate
+    TERTIARY: "#D2691E"        # Caramel
+    QUATERNARY: "#FFF3E0"      # Cream
+
+  Tables:
+    HEADER: "#F5F5F5"          # Vanilla Cream
+    ROW_ALT: "#EFEBE9"         # Cocoa Powder
+    BORDER: "#D7CCC8"          # Latte
+    HOVER: "#EDE7E6"           # Whipped Cream
+
+  Special:
+    SELECTION: "#F5F5F5"       # Vanilla Cream
+    HIGHLIGHT: "#FFF8E1"       # Creme Brûlée
+    TOOLTIP: "#3E2723"         # Bitter Chocolate
+    SCROLLBAR: "#BCAAA4"       # Dusty Rose
+    DIVIDER: "#D7CCC8"         # Latte
+
+  ThemeSwitcher:
+    LIGHT_ICON: "#D2691E"      # Caramel
+    DARK_ICON: "#3E2723"       # Bitter Chocolate
+    TRACK: "#A1887F"           # Milk Chocolate
+    THUMB: "#FFFFFF"           # White Chocolate

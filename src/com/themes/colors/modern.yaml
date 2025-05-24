@@ -1,0 +1,76 @@
+Colors:
+  PRIMARY: "#4B0082"          # Cadbury Purple
+  SECONDARY: "#D4AF37"        # Royal Gold
+  ACCENT: "#9370DB"           # Lavender
+  HIGHLIGHT: "#E6E6FA"        # Lavender Mist
+  SUCCESS: "#A3D9A5"          # Soft Mint
+  WARNING: "#FFD580"          # Buttery Gold
+  DANGER: "#FF6F61"           # Rosy Coral
+  BACKGROUND: "#FAF9FB"       # Creamy White
+  SURFACE: "#FFFFFF"          # Pure White
+
+  Texts:
+    HEADERS: "#2D0730"        # Deep Plum
+    PRIMARY: "#4B0082"        # Cadbury Purple
+    SECONDARY: "#6A0DAD"      # Amethyst
+    PLACEHOLDER: "#A89ABF"    # Powder Purple
+    SUCCESS: "#237C3C"        # Forest Green
+    ERROR: "#C53030"          # Deep Crimson
+
+  Borders:
+    PRIMARY: "#E1D9EC"        # Pale Lilac
+    ACCENT: "#C7B8DD"         # Lavender Fog
+    FOCUS: "#D4AF37"          # Gold Accent
+    ERROR: "#F8BBD0"          # Rose Mist
+
+  Buttons:
+    PRIMARY: "#6A0DAD"        # Amethyst
+    PRIMARY_HOVER: "#5E0994"  # Deep Amethyst
+    SECONDARY: "#D4AF37"      # Royal Gold
+    SECONDARY_HOVER: "#C29C2F"
+    ACCENT: "#9370DB"         # Lavender
+    ACCENT_HOVER: "#7B5CCB"
+    DISABLED: "#D6CFE1"       # Gray Lavender
+    TEXT: "#FFFFFF"           # White
+
+  Inputs:
+    BACKGROUND: "#FFFFFF"     # Pure White
+    BORDER: "#E1D9EC"         # Pale Lilac
+    TEXT: "#4B0082"           # Cadbury Purple
+    PLACEHOLDER: "#A89ABF"    # Powder Purple
+    FOCUS_GLOW: "rgba(105, 57, 153, 0.3)"  # Purple glow
+
+  Cards:
+    BACKGROUND: "#FFFFFF"     # Pure White
+    BORDER: "#EDE7F6"         # Very Pale Purple
+    SHADOW: "rgba(75, 0, 130, 0.1)"        # Cadbury haze
+    ALT_BACKGROUND: "#F5F0FA" # Lilac Cream
+    SECONDARY: "#F5F0FA"      # Lilac Cream
+
+  Sidebar:
+    BACKGROUND: "#EDE7F6"     # Light Lilac
+    BORDER: "#D6CFE1"         # Gray Lavender
+    HOVER: "#D6B8F6"          # Soft Violet
+    ACTIVE: "#CBB4E5"         # Plum Glaze
+
+  Modals:
+    BACKGROUND: "#FFFFFF"     # Pure White
+    BACKDROP: "rgba(250, 249, 251, 0.85)"  # Creamy veil
+    BORDER: "#E1D9EC"         # Pale Lilac
+    HEADER: "#EDE7F6"         # Light Lilac
+
+  Status:
+    ONLINE: "#7ED957"         # Spring Green
+    OFFLINE: "#D6CFE1"        # Gray Lavender
+    AWAY: "#FFDA77"           # Apricot Cream
+    BUSY: "#FF6F61"           # Rosy Coral
+
+  Charts:
+    PRIMARY: "#9370DB"        # Lavender
+    SECONDARY: "#D4AF37"      # Gold
+    TERTIARY: "#FFB6C1"       # Baby Pink
+    QUATERNARY: "#E6E6FA"     # Lavender Mist
+
+  Tables:
+    HEADER: "#EDE7F6"         # Light Lilac
+    ROW_ALT: "#F5F0FA"        #_

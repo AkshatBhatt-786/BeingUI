@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY: "#6750A4"          # Material Primary (Purple 80)
+  SECONDARY: "#4CAF50"        # Material Tertiary (Green 500)
+  ACCENT: "#FFB3BA"           # Material Error Container
+  HIGHLIGHT: "#FFF3D8"        # Material Tertiary Container
+  SUCCESS: "#C8E6C9"          # Success Container
+  WARNING: "#FFE08C"          # Warning Container
+  DANGER: "#FFDAD6"           # Error Container
+  BACKGROUND: "#F3EDF7"       # Material Background
+  SURFACE: "#FFFFFF"          # Material Surface
+
+  Texts:
+    HEADERS: "#1C1B1F"        # Material On Surface
+    PRIMARY: "#49454F"         # Material On Surface Variant
+    SECONDARY: "#5E5E5E"       # Medium Emphasis
+    PLACEHOLDER: "#9E9E9E"     # Disabled
+    SUCCESS: "#2E7D32"         # Material Success
+    ERROR: "#B00020"           # Material Error
+
+  Borders:
+    PRIMARY: "#E3E1EC"         # Outline
+    ACCENT: "#7D5260"          # Material Outline Variant
+    FOCUS: "#6750A4"           # Primary Color
+    ERROR: "#B00020"           # Error Color
+
+  Buttons:
+    PRIMARY: "#6750A4"         # Primary Color
+    PRIMARY_HOVER: "#7C6DAF"   # Primary Hover
+    SECONDARY: "#E8E0FF"       # Primary Container
+    SECONDARY_HOVER: "#D0C4ED"
+    ACCENT: "#4CAF50"          # Tertiary Color
+    ACCENT_HOVER: "#66BB6A"
+    DISABLED: "#E6E0E9"        # Disabled Container
+    TEXT: "#FFFFFF"            # On Primary
+
+  Inputs:
+    BACKGROUND: "#FEF7FF"      # Surface Container Lowest
+    BORDER: "#79747E"          # Outline Variant
+    TEXT: "#1C1B1F"            # On Surface
+    PLACEHOLDER: "#938F99"     # Placeholder
+    FOCUS_GLOW: "rgba(103, 80, 164, 0.1)"  # Primary Glow
+
+  Cards:
+    BACKGROUND: "#FFFFFF"      # Surface
+    BORDER: "#E3E1EC"          # Outline
+    SHADOW: "rgba(28, 27, 31, 0.1)"        # Elevation
+    ALT_BACKGROUND: "#F5EFFF"  # Surface Container
+    SECONDARY: "#F3EDF7"       # Background
+
+  Sidebar:
+    BACKGROUND: "#F5EFFF"      # Surface Container
+    BORDER: "#E3E1EC"          # Outline
+    HOVER: "#E8E0FF"           # Primary Container
+    ACTIVE: "#D0C4ED"          # Primary Container Variant
+
+  Modals:
+    BACKGROUND: "#FFFFFF"      # Surface
+    BACKDROP: "rgba(28, 27, 31, 0.3)"      # Scrim
+    BORDER: "#E3E1EC"          # Outline
+    HEADER: "#F5EFFF"          # Surface Container
+
+  Status:
+    ONLINE: "#4CAF50"          # Success
+    OFFLINE: "#B0B0B0"         # Disabled
+    AWAY: "#FFD700"            # Warning
+    BUSY: "#D32F2F"            # Error
+
+  Charts:
+    PRIMARY: "#6750A4"         # Primary
+    SECONDARY: "#4CAF50"       # Tertiary
+    TERTIARY: "#FFB3BA"        # Error Container
+    QUATERNARY: "#FFF3D8"      # Tertiary Container
+
+  Tables:
+    HEADER: "#F5EFFF"          # Surface Container
+    ROW_ALT: "#F8F5FF"         # Surface Container Low
+    BORDER: "#E3E1EC"          # Outline
+    HOVER: "#F3EDF7"           # Background
+
+  Special:
+    SELECTION: "#E8E0FF"       # Primary Container
+    HIGHLIGHT: "#FFF3D8"       # Tertiary Container
+    TOOLTIP: "#1C1B1F"         # On Surface
+    SCROLLBAR: "#D0C4ED"       # Primary Container Variant
+    DIVIDER: "#E3E1EC"         # Outline
+
+  ThemeSwitcher:
+    LIGHT_ICON: "#FFD700"      # Warning
+    DARK_ICON: "#1C1B1F"       # On Surface
+    TRACK: "#E3E1EC"           # Outline
+    THUMB: "#FFFFFF"           # Surface

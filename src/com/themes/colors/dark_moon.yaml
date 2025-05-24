@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY: "#2A2356"          # Deep Cosmic Purple
+  SECONDARY: "#4A4B8C"        # Nebula Blue
+  ACCENT: "#7D83C2"           # Lunar Halo
+  HIGHLIGHT: "#E0E7FF"        # Moonbeam
+  SUCCESS: "#4EC9B0"          # Aurora Green
+  WARNING: "#FFD166"          # Shooting Star
+  DANGER: "#FF6B6B"           # Solar Flare
+  BACKGROUND: "#0F0F1F"       # Space Void
+  SURFACE: "#1A1A2F"          # Night Sky
+
+  Texts:
+    HEADERS: "#E0E7FF"        # Pure Moonlight
+    PRIMARY: "#B8C1EC"         # Starlight
+    SECONDARY: "#8C94C2"       # Interstellar Dust
+    PLACEHOLDER: "#5A5F7D"     # Crater Shadow
+    SUCCESS: "#4EC9B0"         # Northern Lights
+    ERROR: "#FF8A80"           # Martian Red
+
+  Borders:
+    PRIMARY: "#3D3F66"         # Asteroid Belt
+    ACCENT: "#7D83C2"          # Lunar Ring
+    FOCUS: "#B8C1EC"           # Cosmic Focus
+    ERROR: "#FF6B6B"           # Supernova
+
+  Buttons:
+    PRIMARY: "#4A4B8C"         # Galaxy Core
+    PRIMARY_HOVER: "#5B5DA3"   # Spiral Arm
+    SECONDARY: "#2A2356"       # Dark Matter
+    SECONDARY_HOVER: "#3B3467"
+    ACCENT: "#7D83C2"          # Moon Crater
+    ACCENT_HOVER: "#8E94D3"
+    DISABLED: "#2D2D4D"        # Black Hole
+    TEXT: "#E0E7FF"            # Moonlit Text
+
+  Inputs:
+    BACKGROUND: "#1A1A2F"      # Starfield
+    BORDER: "#3D3F66"          # Meteor Trail
+    TEXT: "#B8C1EC"            # Cosmic Dust
+    PLACEHOLDER: "#5A5F7D"     # Lunar Shadow
+    FOCUS_GLOW: "rgba(125, 131, 194, 0.2)"  # Halo Effect
+
+  Cards:
+    BACKGROUND: "#1A1A2F"      # Night Sky
+    BORDER: "#2A2356"          # Cosmic Edge
+    SHADOW: "rgba(15, 15, 31, 0.4)"         # Eclipse Shadow
+    ALT_BACKGROUND: "#252545"  # Deep Space
+    SECONDARY: "#30305A"       # Nebula Layer
+
+  Sidebar:
+    BACKGROUND: "#0F0F1F"      # Void
+    BORDER: "#2A2356"          # Dark Matter
+    HOVER: "#1E1E3D"           # Event Horizon
+    ACTIVE: "#2D2D4D"          # Singularity
+
+  Modals:
+    BACKGROUND: "#1A1A2F"      # Star Chart
+    BACKDROP: "rgba(15, 15, 31, 0.85)"      # Space Veil
+    BORDER: "#4A4B8C"          # Galactic Current
+    HEADER: "#2A2356"          # Cosmic Cloud
+
+  Status:
+    ONLINE: "#4EC9B0"          # Alien Green
+    OFFLINE: "#3D3F66"         # Comet Trail
+    AWAY: "#FFD166"            # Asteroid Yellow
+    BUSY: "#FF6B6B"            # Red Giant
+
+  Charts:
+    PRIMARY: "#7D83C2"         # Lunar Phase
+    SECONDARY: "#4A4B8C"       # Deep Space
+    TERTIARY: "#FFD166"        # Stellar Gold
+    QUATERNARY: "#4EC9B0"      # Alien Signal
+
+  Tables:
+    HEADER: "#2A2356"          # Cosmic Header
+    ROW_ALT: "#252545"         # Alternate Dimension
+    BORDER: "#3D3F66"          # Meteor Shower
+    HOVER: "#1E1E3D"           # Black Hole Effect
+
+  Special:
+    SELECTION: "#4A4B8C"       # Galaxy Selection
+    HIGHLIGHT: "#3D3F66"       # Cosmic Highlight
+    TOOLTIP: "#0F0F1F"         # Void Tooltip
+    SCROLLBAR: "#4A4B8C"       # Nebula Scroll
+    DIVIDER: "#2A2356"         # Dark Matter Line
+
+  ThemeSwitcher:
+    LIGHT_ICON: "#FFD166"      # Shooting Star
+    DARK_ICON: "#E0E7FF"       # Moonbeam
+    TRACK: "#3D3F66"           # Asteroid Field
+    THUMB: "#4A4B8C"           # Spiral Galaxy

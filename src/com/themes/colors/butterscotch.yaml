@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY:        "#FFD8A8"        # Soft butterscotch
+  SECONDARY:      "#B2D8B2"        # Sage green
+  ACCENT:         "#FFB38A"        # Peachy orange
+  HIGHLIGHT:      "#FFF3DA"        # Creamy vanilla
+  SUCCESS:        "#C1E1C1"        # Mint green
+  WARNING:        "#FFE08C"        # Golden butter
+  DANGER:         "#FFA7A7"        # Coral pink
+  BACKGROUND:     "#FFF9F0"        # Warm ivory
+  SURFACE:        "#FFFFFF"        # Pure white
+
+  Texts:
+    HEADERS:      "#4A3C2A"        # Toasted walnut
+    PRIMARY:      "#6B5C4B"        # Caramel latte
+    SECONDARY:    "#8C7B69"        # Weathered leather
+    PLACEHOLDER:  "#B8A897"        # Muted bisque
+    SUCCESS:      "#4A7A4A"        # Forest green
+    ERROR:        "#CC5A5A"        # Terra cotta
+
+  Borders:
+    PRIMARY:      "#E0D3C0"        # Sandstone
+    ACCENT:       "#FFD0A3"        # Warm peach
+    FOCUS:        "#FFB38A"        # Accent orange
+    ERROR:        "#E9967A"        # Salmon
+
+  Buttons:
+    PRIMARY:         "#FFD8A8"     # Base butterscotch
+    PRIMARY_HOVER:   "#F5C791"     # Deepened butterscotch
+    SECONDARY:       "#D4E6D4"     # Pale sage
+    SECONDARY_HOVER: "#B2D8B2"
+    ACCENT:          "#FFB38A"     # Peach accent
+    ACCENT_HOVER:    "#FF9E6B"
+    DISABLED:        "#E8E0D5"     # Oatmeal
+    TEXT:            "#4A3C2A"     # Dark walnut
+
+  Inputs:
+    BACKGROUND:     "#FFFFFF"      # Clean white
+    BORDER:         "#E0D3C0"      # Sandstone
+    TEXT:           "#6B5C4B"      # Caramel
+    PLACEHOLDER:    "#B8A897"      # Muted bisque
+    FOCUS_GLOW:     "rgba(255, 179, 138, 0.2)"   # Soft peach glow
+
+  Cards:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BORDER:         "#F0E6D8"      # Linen
+    SHADOW:         "rgba(224, 211, 192, 0.2)"   # Warm shadow
+    ALT_BACKGROUND: "#FCF5EB"      # Parchment
+    SECONDARY:      "#FCF5EB"
+
+  Sidebar:
+    BACKGROUND:     "#FFEFD6"      # Apricot cream
+    BORDER:         "#E0D3C0"      # Sandstone
+    HOVER:          "#F5E1C2"      # Buttered toast
+    ACTIVE:         "#EBD4AD"      # Warm biscuit
+
+  Modals:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BACKDROP:       "rgba(255, 249, 240, 0.9)"   # Warm frosted glass
+    BORDER:         "#F0E6D8"      # Linen
+    HEADER:         "#FFEFD6"      # Apricot cream
+
+  Status:
+    ONLINE:         "#A3C1A3"      # Moss green
+    OFFLINE:        "#D1C6B8"      # Weathered stone
+    AWAY:           "#FFD8A8"      # Butterscotch
+    BUSY:           "#FFA7A7"      # Coral
+
+  Charts:
+    PRIMARY:        "#FFD8A8"      # Butterscotch
+    SECONDARY:      "#B2D8B2"      # Sage
+    TERTIARY:       "#FFB38A"      # Peach
+    QUATERNARY:     "#EBD4AD"      # Biscuit
+
+  Tables:
+    HEADER:         "#FFEFD6"      # Apricot cream
+    ROW_ALT:        "#FCF5EB"      # Parchment
+    BORDER:         "#E0D3C0"      # Sandstone
+    HOVER:          "#FFF3E5"      # Vanilla cream
+
+  Special:
+    SELECTION:      "#FFF3DA"      # Vanilla highlight
+    HIGHLIGHT:      "#FEF4E8"      # Warm eggshell
+    TOOLTIP:        "#4A3C2A"      # Walnut
+    SCROLLBAR:      "#E0D3C0"      # Sandstone
+    DIVIDER:        "#F0E6D8"      # Linen
+
+  ThemeSwitcher:
+    LIGHT_ICON:     "#FFD8A8"      # Butterscotch
+    DARK_ICON:      "#6B5C4B"      # Caramel
+    TRACK:          "#E0D3C0"      # Sandstone
+    THUMB:          "#FFFFFF"      # White

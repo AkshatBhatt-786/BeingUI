@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY:        "#F3E5AB"      # Vanilla bean cream
+  SECONDARY:      "#B8D8BA"      # Pistachio mist
+  ACCENT:         "#D4A59A"      # Blushing almond
+  HIGHLIGHT:      "#FFF8E1"      # Whipped cream
+  SUCCESS:        "#C8E6C9"      # Mint chiffon
+  WARNING:        "#FFE08C"      # Caramel glaze
+  DANGER:         "#E6B8B8"      # Rosé quartz
+  BACKGROUND:     "#FFFDF6"      # Fresh linen
+  SURFACE:        "#FFFFFF"      # Pure milk
+
+  Texts:
+    HEADERS:      "#4A403A"      # Dark truffle
+    PRIMARY:      "#6B5C4B"      # Coffee bean
+    SECONDARY:    "#8C7B69"      # Hazelnut
+    PLACEHOLDER:  "#9E9C98"      # Silver birch
+    SUCCESS:      "#6B8E6B"      # Forest moss
+    ERROR:        "#B46D6D"      # Terra cotta
+
+  Borders:
+    PRIMARY:      "#E0D5C8"      # Oatmeal
+    ACCENT:       "#D4A59A"      # Warm clay
+    FOCUS:        "#C2A882"      # Toasted vanilla
+    ERROR:        "#D4A59A"      # Soft terracotta
+
+  Buttons:
+    PRIMARY:         "#F3E5AB"     # Vanilla base
+    PRIMARY_HOVER:   "#E5D39F"     # Rich custard
+    SECONDARY:       "#B8D8BA"     # Pistachio
+    SECONDARY_HOVER: "#A6C4A8"
+    ACCENT:          "#D4A59A"     # Almond blush
+    ACCENT_HOVER:    "#C29388"
+    DISABLED:        "#E8E0D5"     # Bone china
+    TEXT:            "#4A403A"     # Dark truffle
+
+  Inputs:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BORDER:         "#E0D5C8"      # Oatmeal
+    TEXT:           "#6B5C4B"      # Coffee bean
+    PLACEHOLDER:    "#9E9C98"      # Silver birch
+    FOCUS_GLOW:     "rgba(243, 229, 171, 0.2)"   # Vanilla glow
+
+  Cards:
+    BACKGROUND:     "#FFFFFF"      # Crisp white
+    SECONDARY:      "#F5EDDC"      # Vanilla wafer
+    BORDER:         "#F0EAE1"      # Linen
+    SHADOW:         "rgba(224, 213, 200, 0.15)"   # Soft warmth
+    ALT_BACKGROUND: "#FCF8F0"      # Antique paper
+
+  Sidebar:
+    BACKGROUND:     "#F8F2E1"      # Vanilla sugar
+    BORDER:         "#E0D5C8"      # Oatmeal
+    HOVER:          "#EFE5CD"      # Warmed milk
+    ACTIVE:         "#E5D9C0"      # Baked custard
+
+  Modals:
+    BACKGROUND:     "#FFFFFF"      # Pure white
+    BACKDROP:       "rgba(255, 253, 246, 0.92)"   # Sheer curtain
+    BORDER:         "#F0EAE1"      # Linen
+    HEADER:         "#F8F2E1"      # Vanilla sugar
+
+  Status:
+    ONLINE:         "#A3C1A3"      # Moss
+    OFFLINE:        "#D1C6B8"      # Driftwood
+    AWAY:           "#FFE08C"      # Golden hour
+    BUSY:           "#D4A59A"      # Clay pot
+
+  Charts:
+    PRIMARY:        "#F3E5AB"      # Vanilla
+    SECONDARY:      "#B8D8BA"      # Pistachio
+    TERTIARY:       "#D4A59A"      # Almond
+    QUATERNARY:     "#EFE5CD"      # Cream
+
+  Tables:
+    HEADER:         "#F8F2E1"      # Vanilla sugar
+    ROW_ALT:        "#FCF8F0"      # Antique paper
+    BORDER:         "#E0D5C8"      # Oatmeal
+    HOVER:          "#FFFCF5"      # Fresh snow
+
+  Special:
+    SELECTION:      "#FFF8E1"      # Cream highlight
+    HIGHLIGHT:      "#FEF4E8"      # Warm glow
+    TOOLTIP:        "#4A403A"      # Dark truffle
+    SCROLLBAR:      "#E0D5C8"      # Oatmeal
+    DIVIDER:        "#F0EAE1"      # Linen
+
+  ThemeSwitcher:
+    LIGHT_ICON:     "#F3E5AB"      # Vanilla
+    DARK_ICON:      "#6B5C4B"      # Coffee
+    TRACK:          "#E0D5C8"      # Oatmeal
+    THUMB:          "#FFFFFF"      # White

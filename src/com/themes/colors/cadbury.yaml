@@ -1,0 +1,91 @@
+Colors:
+  PRIMARY: "#330072"          # Cadbury Purple (Official Brand Color)
+  SECONDARY: "#D4AF37"        # Cadbury Gold
+  ACCENT: "#FFD700"           # Dairy Milk Highlight
+  HIGHLIGHT: "#FFF3E0"        # Milk Cream
+  SUCCESS: "#45B649"          # Bournville Green
+  WARNING: "#FFC107"          # Crunchie Gold
+  DANGER: "#C62828"           # Roses Red
+  BACKGROUND: "#F8F5FF"       # Lilac Mist
+  SURFACE: "#FFFFFF"          # Dairy White
+
+  Texts:
+    HEADERS: "#2A004D"        # Dark Purple
+    PRIMARY: "#4A4A4A"         # Twirl Brown
+    SECONDARY: "#6D6D6D"       # Flake Gray
+    PLACEHOLDER: "#9E9E9E"     # Wispa Silver
+    SUCCESS: "#388E3C"         # Green Triangle
+    ERROR: "#D32F2F"           # Cherry Ripe Red
+
+  Borders:
+    PRIMARY: "#D4AF37"         # Gold Bar
+    ACCENT: "#330072"          # Purple Wrap
+    FOCUS: "#FFD700"           # Caramello Glow
+    ERROR: "#C62828"           # Dark Cherry
+
+  Buttons:
+    PRIMARY: "#330072"         # Classic Purple
+    PRIMARY_HOVER: "#28005C"   # Darker Purple
+    SECONDARY: "#D4AF37"       # Golden Barrel
+    SECONDARY_HOVER: "#BF9000"
+    ACCENT: "#FFD700"          # Golden Crisp
+    ACCENT_HOVER: "#FFC400"
+    DISABLED: "#E0E0E0"        # Milky Bar
+    TEXT: "#FFFFFF"            # Dairy White
+
+  Inputs:
+    BACKGROUND: "#FFFFFF"      # Pure Milk
+    BORDER: "#D4AF37"          # Gold Foil
+    TEXT: "#330072"            # Purple Text
+    PLACEHOLDER: "#9E9E9E"     # Silver Foil
+    FOCUS_GLOW: "rgba(212, 175, 55, 0.2)"  # Gold Glow
+
+  Cards:
+    BACKGROUND: "#FFFFFF"      # Dairy White
+    BORDER: "#E0E0E0"          # Light Wrap
+    SHADOW: "rgba(51, 0, 114, 0.1)"        # Purple Shadow
+    ALT_BACKGROUND: "#F8F5FF"  # Lilac Mist
+    SECONDARY: "#FFF3E0"       # Creamy Milk
+
+  Sidebar:
+    BACKGROUND: "#330072"      # Classic Purple
+    BORDER: "#D4AF37"          # Gold Trim
+    HOVER: "#471F88"           # Darker Purple
+    ACTIVE: "#5C33A3"          # Fruit & Nut
+
+  Modals:
+    BACKGROUND: "#FFFFFF"      # Dairy White
+    BACKDROP: "rgba(51, 0, 114, 0.15)"     # Purple Haze
+    BORDER: "#D4AF37"          # Gold Edge
+    HEADER: "#FFF3E0"          # Cream Header
+
+  Status:
+    ONLINE: "#45B649"          # Green Triangle
+    OFFLINE: "#BDBDBD"         # Silver Pouch
+    AWAY: "#FFC107"            # Crunchie
+    BUSY: "#D32F2F"            # Red Popper
+
+  Charts:
+    PRIMARY: "#330072"         # Classic Purple
+    SECONDARY: "#D4AF37"       # Gold Bar
+    TERTIARY: "#FFD700"        # Golden Crisp
+    QUATERNARY: "#FFF3E0"      # Milk Cream
+
+  Tables:
+    HEADER: "#FFF3E0"          # Cream Header
+    ROW_ALT: "#F8F5FF"         # Lilac Mist
+    BORDER: "#E0E0E0"          # Light Divider
+    HOVER: "#F3F0FF"           # Purple Mist
+
+  Special:
+    SELECTION: "#FFF3E0"       # Cream Selection
+    HIGHLIGHT: "#FFE082"       # Honeycomb
+    TOOLTIP: "#330072"         # Purple Tooltip
+    SCROLLBAR: "#D4AF37"       # Gold Scroll
+    DIVIDER: "#E0E0E0"         # Light Divider
+
+  ThemeSwitcher:
+    LIGHT_ICON: "#FFD700"      # Golden Crisp
+    DARK_ICON: "#330072"       # Classic Purple
+    TRACK: "#D4AF37"           # Gold Track
+    THUMB: "#FFFFFF"           # Dairy White
